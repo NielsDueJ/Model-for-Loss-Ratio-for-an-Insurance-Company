@@ -1,2 +1,3 @@
 # Model-for-Loss-Ratio-for-an-Insurance-Company
-Model to compute the loss ratio for an agency selling insurances in the auto industry. Different scenarios are simulated using Monte Carlo simulation to derive the ratio of losses to premiums paid.
+
+This Python script simulates the loss ratio for an insurance agency using a Monte Carlo method. The loss ratio is the ratio of total claims (losses) to total premiums collected. The simulation helps in understanding the risk associated with different policy scenarios.
